@@ -109,7 +109,9 @@ Each metric was logged during training and testing for comparative insights.
 ---
 
 ### 📎 Results
-See the full results in the provided excel document CompAnalysis.xlsx
+See the full results here 
+[View Results](Results.xlsx)
+
 
 ---
 
